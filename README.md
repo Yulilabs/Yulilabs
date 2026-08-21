@@ -8,8 +8,8 @@
 
 <br/>
 
-<h1 align="center" style="font-weight:200; letter-spacing:8px;">RAYAN</h1>
-<h4 align="center" style="font-weight:300; color:#888;">沈宇理</h4>
+<h1 align="center" style="font-weight:200; letter-spacing:8px;">沈宇理</h1>
+<h4 align="center" style="font-weight:300; color:#888;">rayan</h4>
 
 <br/>
 
